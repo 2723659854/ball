@@ -4,6 +4,11 @@
   "license": "MIT",
   "description": "Webman plugin xiaosongshu/admin",
   "require": {
+    "php": ">=7.4",
+    "webman/console": "^1.0"
+  },
+  "require-dev": {
+    "workerman/webman-framework": "^1.3.0"
   },
   "autoload": {
     "psr-4": {
