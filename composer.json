@@ -1,0 +1,13 @@
+{
+  "name": "xiaosongshu/admin",
+  "type": "library",
+  "license": "MIT",
+  "description": "Webman plugin xiaosongshu/admin",
+  "require": {
+  },
+  "autoload": {
+    "psr-4": {
+      "Xiaosongshu\\Admin\\": "src"
+    }
+  }
+}
